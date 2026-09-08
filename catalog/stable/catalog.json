@@ -1,0 +1,119 @@
+{
+  "bundle_identifier": "com.mixedpro.metadata.catalog",
+  "catalog_id": "mixed-pro-owned-cc0",
+  "catalog_internal_sha256": "0f34df6e8994e113b2906f89dd2d1b192f20cdde9900687f34b4c6c8933cee66",
+  "catalog_sequence": 1,
+  "catalog_version": "1.0.0",
+  "dmg": {
+    "bytes": 11536758410,
+    "parts": [
+      {
+        "bytes": 1800000000,
+        "part_number": 1,
+        "sha256": "95133fd02f51ff9b2974aea24ef501bfb390a415aa8f90c1392b7de67b50e98b",
+        "url": "https://github.com/riccardojd/mixed-pro-updates/releases/download/catalog-v1.0.0/MIXED-Pro-Metadata-Catalog-v1.0.0.dmg.part001"
+      },
+      {
+        "bytes": 1800000000,
+        "part_number": 2,
+        "sha256": "63de1a2a9be03425406221e28a5374b4c96841ccbdaae3d79aac71fd38b6a024",
+        "url": "https://github.com/riccardojd/mixed-pro-updates/releases/download/catalog-v1.0.0/MIXED-Pro-Metadata-Catalog-v1.0.0.dmg.part002"
+      },
+      {
+        "bytes": 1800000000,
+        "part_number": 3,
+        "sha256": "d9ad843ff137fd867c5f33c192d34cbd18f2f00f71eded43f8e7e404cfbcaaaa",
+        "url": "https://github.com/riccardojd/mixed-pro-updates/releases/download/catalog-v1.0.0/MIXED-Pro-Metadata-Catalog-v1.0.0.dmg.part003"
+      },
+      {
+        "bytes": 1800000000,
+        "part_number": 4,
+        "sha256": "27ffa18b7bf2787883bf84663ccf7365ab02826cbe2ee7569876d211ff6a24f0",
+        "url": "https://github.com/riccardojd/mixed-pro-updates/releases/download/catalog-v1.0.0/MIXED-Pro-Metadata-Catalog-v1.0.0.dmg.part004"
+      },
+      {
+        "bytes": 1800000000,
+        "part_number": 5,
+        "sha256": "a69b2d79ea164f5e224432e3f80ce214db5dd863e6c969d1f59a5c033cf8c140",
+        "url": "https://github.com/riccardojd/mixed-pro-updates/releases/download/catalog-v1.0.0/MIXED-Pro-Metadata-Catalog-v1.0.0.dmg.part005"
+      },
+      {
+        "bytes": 1800000000,
+        "part_number": 6,
+        "sha256": "f22966d6c8cda74597462e70d4c3a385f901da9fdabde8b8733c7a7ee7e9f399",
+        "url": "https://github.com/riccardojd/mixed-pro-updates/releases/download/catalog-v1.0.0/MIXED-Pro-Metadata-Catalog-v1.0.0.dmg.part006"
+      },
+      {
+        "bytes": 736758410,
+        "part_number": 7,
+        "sha256": "f980a773fa1b24291a21a2a2f08e1727155b02aa4ac58a4fa686531a7a426652",
+        "url": "https://github.com/riccardojd/mixed-pro-updates/releases/download/catalog-v1.0.0/MIXED-Pro-Metadata-Catalog-v1.0.0.dmg.part007"
+      }
+    ],
+    "sha256": "bb608864404479734bc343046c7491be3b36d22131124214512a307408b78be1"
+  },
+  "evidence": [
+    {
+      "bytes": 1371,
+      "path": "Contents/Resources/compliance/dataset-approval.json",
+      "sha256": "c389f82dda769e2a733d93ad8f6cc4cb723493ad54c4b67da5ed251c665316ba"
+    },
+    {
+      "bytes": 1411,
+      "path": "Contents/Resources/compliance/metadata-dataset-approvals.json",
+      "sha256": "7e820f0509c999ed0dae1b350e04f4f0ea47cb552540d24a6da7280099aab6be"
+    },
+    {
+      "bytes": 3889,
+      "path": "Contents/Resources/compliance/index-build-report.json",
+      "sha256": "cac5ca541016f8cd6e47fa31b33a1d037357406106ee45fcfa29132fd36b05d9"
+    },
+    {
+      "bytes": 4645,
+      "path": "Contents/Resources/compliance/metadata/musicbrainz-canonical-20260903-rights.md",
+      "sha256": "3a81f6ca93744d9ec3fe41474022efcb806910dc3941ed74a3fb1ed349d9a177"
+    },
+    {
+      "bytes": 1204,
+      "path": "Contents/Resources/compliance/release-overlay/dataset-approval.json",
+      "sha256": "8f0105450707d2f235da569502274740d7c50b2ddc183c9c0ddf4e086d9737d2"
+    },
+    {
+      "bytes": 1341,
+      "path": "Contents/Resources/compliance/release-overlay/metadata-dataset-approvals.json",
+      "sha256": "f7d9ae734c635cbcd525e04f18a22a78dace0cdd35767e028b148703d21f9308"
+    },
+    {
+      "bytes": 1643,
+      "path": "Contents/Resources/compliance/release-overlay/index-build-report.json",
+      "sha256": "9ad76aa62e229797e18ebbc39744678d7ece20c4fa4ed62c651aef424f64e713"
+    },
+    {
+      "bytes": 3115,
+      "path": "Contents/Resources/compliance/release-overlay/metadata/discogs-masters-20260901-rights.md",
+      "sha256": "902f6abf29a53c4e1271a7e0340e23c3bd9646caf0c787c3c582bd8adff356d4"
+    }
+  ],
+  "index": {
+    "bytes": 38537613312,
+    "path": "Contents/Resources/owned_metadata_v1.sqlite3",
+    "recording_count": 31962541,
+    "sha256": "8e3612137afbb6e490b9a18e46231e618ed57b5da5c5109b17c0807d12aa04fa",
+    "source_count": 1
+  },
+  "index_schema_version": 1,
+  "maximum_app_version_exclusive": "2.0.0",
+  "metadata_schema_version": 1,
+  "minimum_app_version": "1.0.5",
+  "product": "MIXED Pro Metadata Catalog",
+  "release_overlay": {
+    "bytes": 240218112,
+    "entry_count": 2525080,
+    "path": "Contents/Resources/release-overlay.sqlite3",
+    "sha256": "71512a1b9f3ba4c4ed8fc5f31c80dfefe6c08238e0d42a2d375146cd2ce97f1f",
+    "source_count": 1
+  },
+  "schema_version": 1,
+  "status": "release",
+  "team_id": "J693548RF3"
+}
