@@ -1,6 +1,13 @@
 {
   "schema_version": 1,
   "product": "MIXED Pro",
-  "status": "no_update",
-  "version": "1.0.0"
+  "status": "release",
+  "version": "2.0.0-beta.1",
+  "architecture": "arm64",
+  "minimum_macos": "14.0",
+  "dmg_url": "https://github.com/riccardojd/mixed-pro-updates/releases/download/v2.0.0-beta.1/MIXED-Pro-2.0.0-beta.1-build-246-arm64.dmg",
+  "sha256": "5c78474263bcb1f16289d11b522e6c531e4684c8eb6881fab27c84c61a1751dd",
+  "bytes": 567173453,
+  "team_id": "J693548RF3",
+  "release_notes_url": "https://github.com/riccardojd/mixed-pro-updates/releases/tag/v2.0.0-beta.1"
 }
